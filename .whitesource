@@ -12,11 +12,11 @@
   },
   "issueSettings": {
     "minSeverityLevel": "LOW",
-    "issueType": "DEPENDENCY"
+    "issueType": "DEPENDENCYadaf"
   },
   "remediateSettings": {
     "workflowRules": {
-      "enabled": false
+      "enabled": true
     }
   }
 }
